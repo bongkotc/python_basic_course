@@ -1,6 +1,11 @@
 # python_basic_course
 Python Basic Course
 
+* การติดตั้ง Virtual Environment:
+  ```bash
+  python -m venv .venv
+  .venv\Scripts\activate
+
 📥ส่วนที่ 1: เตรียมตัวและพื้นฐานแรกสุด (EP 1 - EP 2)
 EP 1: แนะนำภาษา Python & การติดตั้งเครื่องมือ
 
